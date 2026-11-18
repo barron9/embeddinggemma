@@ -1,6 +1,6 @@
 # embeddinggemma2
 
-null space embedding mteb
+pooling from audio interm. layers to 768d null space. mteb.
 
 #### before
 CREMA_DClustering: 0.005
